@@ -17,3 +17,11 @@ Block: [170650000](https://arbiscan.io/block/170650000)
 Snapshot: [IPFS](https://gateway.pinata.cloud/ipfs/Qme73PsEaPxMRDWByXMo1AGnLmk5zYumeDh5jGMZsumcYo)
 
 Voting power: `X` number of tokens, `X` votes
+
+## 3. DECIDE THE FUTURE OF 1% $SPARTA TOKENS
+
+Block: [173091935](https://arbiscan.io/block/173091935)
+
+Snapshot: [IPFS](https://gateway.pinata.cloud/ipfs/QmZW46tcW9Xwv3V7rNMLA3QcQdw7kAhbqS4b9cmFCN3etS)
+
+Voting power: `X` number of tokens, `X` votes
