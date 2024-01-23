@@ -18,7 +18,7 @@ Snapshot: [IPFS](https://gateway.pinata.cloud/ipfs/Qme73PsEaPxMRDWByXMo1AGnLmk5z
 
 Voting power: `X` number of tokens, `X` votes
 
-## 3. DECIDE THE FUTURE OF 1% $SPARTA TOKENS
+## 3. [DECIDE THE FUTURE OF 1% $SPARTA TOKENS](https://snapshot.org/#/gameswiftdao.eth/proposal/0x6648257089c13c1b78d7831cbb1129918ed744a250e21ed7b32c5c38cb06029b)
 
 Block: [173091935](https://arbiscan.io/block/173091935)
 
